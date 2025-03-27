@@ -21,9 +21,9 @@ Currently, I am expanding my skills in:
 ## I love teaching.
 As a Teaching Assistant at UC Davis, I have taught undergraduate courses in Climate Change and Animal Biology. Read about my teaching experience [here](/teaching/).
 
+Fun fact: I started my teaching journey as a volunteer teacher in Nepal. I taught Science and English to students on elementary level. 
+
 ## Beyond Academia
 Outside of academia, I have worked on **community-driven projects** focused on **sustainable agriculture** and **public health** in Nepal. 
 * As a part of WASH (Water, Sanitation and Health) and sustainable livelihoods initiative, I worked with local communities to improve their access to clean water, and led workshops with women's cooperatives to promote women's health and hygiene. 
 * I also led a team of volunteers to support farmers in building small sustainable businesses through high-value vegetable production in rural Nepal. 
-
-
