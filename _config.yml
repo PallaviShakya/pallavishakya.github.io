@@ -25,7 +25,7 @@ author:
   avatar           : "cropped_pic.png"
   name             : "Pallavi"
   pronouns         :  "she/her"
-  bio              : "Surviving PhD Candidate"
+  bio              : "PhD Candidate"
   location         : "California, USA"
   employer         : "University of California, Davis"
   #uri              : # URL
@@ -225,6 +225,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
