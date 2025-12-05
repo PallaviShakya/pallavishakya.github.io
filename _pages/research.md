@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: "Projects"
 permalink: /research/
 author_profile: true
 type: widget_page
@@ -250,3 +250,21 @@ Our study provides important genetic and genomic resources for _M. hapla_ and sh
   });
 </script>
 
+
+# Apollo Genome Browser
+Along with the Phoenix IT team at UC Davis, I maintain Apollo genome browser for nematodes sequenced in the Siddique Lab. 
+This provides our collaborators with an easy-to-use web interface to visualize the genomes, review evidence tracks and manually annotate the gene models.
+
+<div style="margin: 1rem 0; padding: 1rem; background: #f0f0f0; border-radius: 8px;">
+  <strong>See more at:</strong> <a href="https://github.com/PallaviShakya/apollo_git" target="_blank" style="font-weight: bold;">Github Repository →</a>
+</div>
+
+ <div style="text-align: center; margin: 2rem 0;"> <img src="/images/research/Apollo.png" alt="Apollo Genome Browser Interface" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <p style="margin-top: 0.5rem; color: #666; font-size: 0.9rem;">Apollo genome browser showing gene annotations and multiple data tracks for <em>Meloidogyne hapla</em></p> </div>
+
+# Identification and Characterization of Effector Genes in _Meloidogyne hapla_
+What makes one strain of _M hapla_ avirulent and another virulent on a specific host plant? 
+To answer this, I combine comparative genomics, QTL and variant analysis to identify candidate effector genes. 
+To answer this, I combine comparative genomics, QTL and variant analysis to identify candidate effector genes. 
+Then, I characterize these genes using RNAi knockdown and over-expression assays to understand their role in parasitism and host interaction.
+
+<div style="text-align: center; margin: 2rem 0;"> <img src="/images/research/Oct%2020,%202025_ProgressReport_PLPSeminar.png" alt="_M hapla_ infection on beans" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <p style="margin-top: 0.5rem; color: #666; font-size: 0.9rem;">Infection of two strains of <em>Meloidogyne hapla</em> VW9 and LM on different bean varieties Nemasnap and BlackValentine. The pictures shown are roots infested with <em>M hapla</em> females and stained with Acid Fuchsin Dye.</p> </div>

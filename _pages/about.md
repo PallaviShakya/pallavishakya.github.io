@@ -19,9 +19,9 @@ redirect_from:
 <img src="/images/cropped_pic.png" width="150" style="border-radius: 50%;" />
 
 <h2 style="text-align: center !important;">Hi! I'm Pallavi.</h2>
-<p style="text-align: center !important;"><strong>Genomics · Plant Pathology · Nematology</strong></p>
+<p style="text-align: center !important;"><strong>Genomics · Plant Pathology · Bioinformatics</strong></p>
 
-<p style="text-align: center !important;">I study plant parasitic nematodes using genomics and bioinformatics.</p>
+<p style="text-align: center !important;">I study Plant Parasitic Nematodes using genomics and bioinformatics.</p>
 
 <p style="text-align: center !important;"><a href="/about-me/" style="font-weight: bold;">More about me →</a></p>
 
