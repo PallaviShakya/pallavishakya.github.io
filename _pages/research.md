@@ -262,8 +262,7 @@ This provides our collaborators with an easy-to-use web interface to visualize t
  <div style="text-align: center; margin: 2rem 0;"> <img src="/images/research/Apollo.png" alt="Apollo Genome Browser Interface" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"> <p style="margin-top: 0.5rem; color: #666; font-size: 0.9rem;">Apollo genome browser showing gene annotations and multiple data tracks for <em>Meloidogyne hapla</em></p> </div>
 
 # Identification and Characterization of Effector Genes in _Meloidogyne hapla_
-What makes one strain of _M hapla_ avirulent and another virulent on a specific host plant? 
-To answer this, I combine comparative genomics, QTL and variant analysis to identify candidate effector genes. 
+What makes one strain of _M hapla_ avirulent and another virulent on a specific host plant?  
 To answer this, I combine comparative genomics, QTL and variant analysis to identify candidate effector genes. 
 Then, I characterize these genes using RNAi knockdown and over-expression assays to understand their role in parasitism and host interaction.
 
