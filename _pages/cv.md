@@ -5,5 +5,5 @@ permalink: /cv/
 #author_profile: true
 #redirect_from:
 #  - /resume
-redirect_to: /files/2025_PallaviShakya.pdf
+redirect_to: /files/PS_academic_Jun8_2026.pdf
 ---
