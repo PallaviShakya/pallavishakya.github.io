@@ -11,3 +11,10 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# ignore these
+.DS_Store
+.idea/
+.Rhistory
+potential_header*.jpg
+potential_image*.jpg

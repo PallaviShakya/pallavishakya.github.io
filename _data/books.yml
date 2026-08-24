@@ -1,0 +1,85 @@
+# Order here is the order on the page. Newest first.
+# isbn: pulls the cover automatically (Google Books, then Open Library). Leave blank for a colour tile.
+# full: filename (without .md) of a full review in _books/. Omit if there isn't one.
+- title: "Little Women"
+  author: "Louisa May Alcott"
+  isbn: "9780140390698"
+  note: "I always thought I was Jo. Re-reading it this winter, I found myself just as drawn to Amy, Beth and Meg."
+  full: little-women
+
+- title: "Babel"
+  author: "R. F. Kuang"
+  isbn: "9780063021426"
+  note: "Dark academia about the beauty and deceit of translation, with a seething critique of colonialism underneath. I felt too much of what these characters go through."
+  full: babel
+
+- title: "I, Medusa"
+  author: "Ayana Gray"
+  isbn: "9780593733769"
+  note: "Before this book I never saw Medusa as anything more than a monster. Gray gives her her story back, and I cried for her and her sisters."
+  full: i-medusa
+
+- title: "The Metamorphosis"
+  author: "Franz Kafka"
+  isbn: "9780553213690"
+  note: "I think I finally understand what Kafkaesque means, and I wasn't ready. I have never had a book affect me so physically."
+
+- title: "Annihilation"
+  author: "Jeff VanderMeer"
+  isbn: "9780374104092"
+  note: "Beautifully written climate fiction that I could not put down. At moments I couldn't breathe or blink, and it left me asking what the world would look like without humans, or with nature-blended organisms."
+  full: annihilation
+
+- title: "Rendezvous with Rama"
+  author: "Arthur C. Clarke"
+  isbn: "9780553287899"
+  note: "One of the best sci-fi books I have read."
+
+- title: "The Code Breaker"
+  author: "Walter Isaacson"
+  isbn: "9781982115852"
+  note: "Curiosity-driven research, told honestly. Isaacson lets his subjects be imperfect and remarkable at the same time, which is hard to pull off."
+  full: the-code-breaker
+
+- title: "The Gene: An Intimate History"
+  author: "Siddhartha Mukherjee"
+  isbn: "9781476733500"
+  note: "This is the book that brought me to science. A must-read for any student of science."
+
+- title: "The Genome Odyssey"
+  author: "Euan Angus Ashley"
+  isbn: "9781250234995"
+  note: "Ashley is a great storyteller, but it was the patients and their resilience that stayed with me longer than the technology did."
+  full: the-genome-odyssey
+
+- title: "Empire of Pain"
+  author: "Patrick Radden Keefe"
+  isbn: "9780385545686"
+  note: "A meticulous account of the Sacklers, Purdue and the opioid crisis. It made me sick to my stomach thinking about how much power these people had."
+  full: empire-of-pain
+
+- title: "The Year of Magical Thinking"
+  author: "Joan Didion"
+  isbn: "9781400078431"
+  note: "Didion dissects grief almost clinically. It scared me, because I found myself grappling with the mortality of everyone I love."
+
+- title: "Wild Swans: Three Daughters of China"
+  author: "Jung Chang"
+  isbn: "9780743246989"
+  note: "At times I wished this were fiction, because the events were so painful I kept thinking they couldn't be real. The strength and resilience of these three women made me cry, smile, and most of all, inspired me."
+
+- title: "Gone with the Wind"
+  author: "Margaret Mitchell"
+  isbn: "9781451635621"
+  note: "Scarlett O'Hara is the most fascinating and unexpected woman I have read about. I never thought a book about war could be this alive."
+  full: gone-with-the-wind
+
+- title: "Remarkably Bright Creatures"
+  author: "Shelby Van Pelt"
+  isbn: "9780063204157"
+  note: "Unusual friendships, old age, and a remarkably bright octopus. I listened to it walking to and from the greenhouses, tending nematodes and plants, which are also remarkably bright and annoyingly demanding."
+
+- title: "The Lion Women of Tehran"
+  author: "Marjan Kamali"
+  isbn: "9781668036587"
+  note: "A warm book about rebellion, female friendship, and the endless fight for justice and for women's right to exist in Iran."

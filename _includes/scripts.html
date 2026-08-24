@@ -1,3 +1,16 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href]').forEach(function (link) {
+      var isExternal = link.hostname && link.hostname !== window.location.hostname;
+      var isPdf = /\.pdf($|\?)/i.test(link.getAttribute('href') || '');
+      if (isExternal || isPdf) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });
+</script>
+
 {% include analytics.html %}
