@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Pallavi."
+description: "Pallavi Shakya, PhD — genomics, bioinformatics, and genetics"
 author_profile: false
 #author: pallavi
 layout: splash

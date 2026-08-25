@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Research"
+description: "Genome assembly, QTL mapping, and effector biology of the root-knot nematode Meloidogyne hapla — research by Pallavi Shakya."
 permalink: /research/
 author_profile: true
 type: widget_page

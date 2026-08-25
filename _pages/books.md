@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Books"
+description: "Books that made me think — short reviews and notes by Pallavi Shakya."
 permalink: /books/
 author_profile: true
 ---

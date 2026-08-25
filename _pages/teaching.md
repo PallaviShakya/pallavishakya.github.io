@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Teaching"
+description: "Teaching experience and courses in nematology, plant pathology, and bioinformatics."
 permalink: /teaching/
 author_profile: true
 ---

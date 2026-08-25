@@ -1,5 +1,6 @@
 ---
 title: "Hi, I am Pallavi!"
+description: "About Pallavi Shakya — PhD in plant pathology, working across genomics, bioinformatics, and genetics."
 permalink: /about-me/
 layout: single
 author_profile: true
